@@ -1,7 +1,6 @@
 discord
 bloxflippredictor
 discord_webhook
-scrapebuildercheck
 Crypto
 requests
 datetime
