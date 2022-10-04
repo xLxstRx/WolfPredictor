@@ -11,7 +11,7 @@ from bloxflippredictor import *
 
 
 # Setup/Configs
-TOKEN=""
+TOKEN="1026873250170536088"
 bombs=1    #  This is for maths it will show the % when one bomb is used you can make the % with this higher or lower
 
 #  Discord bot definition
